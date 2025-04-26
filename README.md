@@ -1,9 +1,9 @@
 # Amazon-Product-Pricer
-fine tuning a frontier model for predicting the price of items
+
 
 # 🛍️ Product Pricer
 
-**A machine learning pipeline that estimates product prices based on their descriptions using both classical ML techniques and fine-tuned Large Language Models (LLMs).**
+**A machine learning pipeline that estimates product prices based on their descriptions using both classical ML techniques and fine-tuned a frontier Large Language Models (LLMs).**
 
 ---
 
